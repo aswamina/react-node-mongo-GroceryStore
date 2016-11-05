@@ -1,0 +1,52 @@
+html {
+    color: darkslateblue;
+    background-color: azure;
+}
+
+.strikethrough {
+    text-decoration: line-through;
+    color: red;
+}
+
+body {
+    padding-top: 3rem;
+}
+
+.purchased-false {
+    height: 40px;
+    background-color: red;
+}
+
+.purchased-true {
+    height: 40px;
+    background-color: blue;
+}
+
+h1 {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
+
+.grocery-addItem {
+    margin-top: 1rem;
+    padding-top: 1rem;
+}
+
+.grocery-item {
+    column-width: 300px;
+}
+
+.threeColumns {
+    column-width: 60px;
+    text-align: left;
+}
+
+.eightColumns {
+    column-width: 160px;
+    text-align: left;
+}
+
+.oneColumn {
+    column-width: 20px;
+    text-align: left;
+}

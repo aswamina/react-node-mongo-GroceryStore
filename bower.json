@@ -1,0 +1,28 @@
+{
+  "name": "grocerylist",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Anand Swaminathan <aswamina@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.3.2",
+    "skeleton": "^2.0.4"
+  }
+}
